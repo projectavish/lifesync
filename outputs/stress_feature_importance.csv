@@ -1,0 +1,26 @@
+Feature,Importance
+Social Interaction Score,0.046268076
+Country_Canada,0.045923747
+Gender_Male,0.045540225
+Country_India,0.04404494
+Screen Time per Day (Hours),0.043825254
+Gender_Other,0.043774977
+Diet_Junk Food,0.043683883
+Diet_Keto,0.0432729
+Work Hours per Week,0.0429367
+Diet_Vegetarian,0.042030096
+Sleep Hours,0.041932933
+MH_Bipolar,0.04189726
+Diet_Vegan,0.04034739
+Country_USA,0.040191747
+Country_Germany,0.039956663
+Gender_Female,0.039118666
+Country_Australia,0.038986735
+MH_Depression,0.038848475
+Country_Brazil,0.038114943
+MH_PTSD,0.036599904
+MH_Anxiety,0.035869557
+Exercise Level,0.033090346
+Diet_Balanced,0.032056846
+Age,0.03177539
+Country_Japan,0.029912356

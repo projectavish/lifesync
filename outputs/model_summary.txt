@@ -1,0 +1,17 @@
+LifeSync Model Training Summary
+==============================
+
+Happiness Score Prediction:
+- Best Model: Random Forest
+- R² Score: 0.0036
+- Mean Absolute Error: 2.2538
+- Root Mean Squared Error: 2.5971
+- Top 5 Features: Sleep Hours, Age, Social Interaction Score, Work Hours per Week, Screen Time per Day (Hours)
+
+Stress Level Prediction:
+- Best Model: XGBoost
+- R² Score: 0.0014
+- Mean Absolute Error: 0.6737
+- Root Mean Squared Error: 0.8126
+- Top 5 Features: Social Interaction Score, Country_Canada, Gender_Male, Country_India, Screen Time per Day (Hours)
+

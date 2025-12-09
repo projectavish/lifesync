@@ -1,0 +1,34 @@
+Timestamp,Age,Gender,Sleep Hours,Work Hours per Week,Screen Time per Day (Hours),Social Interaction Score,Exercise Level,Diet Type,Mental Health Condition,Happiness Prediction,Stress Prediction,Burnout Risk
+2025-06-02 02:23:32,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 02:27:38,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 02:28:00,30,Female,7.5,40,4.0,2,Low,Balanced,None,5.4,4.88,18.7
+2025-06-02 03:01:24,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:01:45,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:03:21,Anshu Sharma,30,Female,7.5,40,4.0,6,Moderate,Balanced,None,5.5,4.9,18.1
+2025-06-02 03:03:49,Anshu Sharma,30,Female,7.5,40,4.0,6,Moderate,Balanced,None,5.5,4.9,18.1
+2025-06-02 03:20:59,dfds,53,Female,7.5,40,4.0,6,Low,Balanced,None,5.2,5.08,18.1
+2025-06-02 03:23:06,dfds,53,Female,7.5,40,4.0,6,Low,Balanced,None,5.2,5.08,18.1
+2025-06-02 03:23:25,dfds,53,Female,7.5,40,4.0,6,Low,Balanced,None,5.2,5.08,18.1
+2025-06-02 03:27:48,bhy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:27:48,bhy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:27:56,bhy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:27:56,bhy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:35:02,agytydy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:35:02,agytydy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:35:11,agytydy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:35:11,agytydy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:35:50,bhy,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:37:08,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:37:16,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:47:12,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 03:47:18,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 20:31:42,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 20:36:23,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
+2025-06-02 21:10:22,,30,Female,7.5,40,4.0,6,Low,Balanced,Depression,5.5,4.83,18.1
+2025-06-02 21:10:24,,30,Female,7.5,40,4.0,6,Low,Balanced,Depression,5.5,4.87,18.1
+2025-06-02 21:10:26,,30,Female,7.5,40,4.0,6,Low,Balanced,Depression,5.5,4.87,18.1
+2025-06-02 21:10:29,,30,Female,7.5,40,4.0,6,High,Balanced,Depression,5.5,4.95,18.1
+2025-06-02 21:10:31,,30,Female,7.5,40,4.0,6,High,Balanced,Depression,5.5,4.95,18.1
+2025-06-02 21:10:33,,30,Female,7.5,40,7.5,6,High,Balanced,Depression,5.6,5.23,19.0
+2025-06-02 21:10:34,,30,Female,7.5,40,7.5,7,High,Balanced,Depression,5.7,5.23,18.8
+2025-06-02 21:10:41,,30,Female,7.5,40,4.0,6,Low,Balanced,None,5.5,4.88,18.1
